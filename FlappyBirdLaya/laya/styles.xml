@@ -1,0 +1,13 @@
+<res>
+   <item name="atlas" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="atlas/ColumnSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="atlas/GrassThinSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="atlas/GroundSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="atlas/MainMenuBackgroundSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="atlas/MountainSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="atlas/SkyTileSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="GameUI/Play.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="GameUI/No.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="GameMap/ColumnSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="GameMap/MainMenuBackgroundSprite.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>

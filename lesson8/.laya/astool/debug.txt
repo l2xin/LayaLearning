@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:g:\_github\Laya\lesson8/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:g:\_github\Laya\lesson8/.actionScriptProperties.
+1,0.00,,0,output path:g:/_github/Laya/lesson8/bin/h5/
+1,0.00,,0,Main Class:g:/_github/Laya/lesson8/src/Main.as
+1,0.00,,0,output file:Main
+1,0.00,,0,compilerSourcePath g:/_github/Laya/lesson8/libs/laya/src/
+
+1,0.00,,0,Compile Path:g:/_github/Laya/lesson8/src/
+
+1,0.00,,0,Compile Path:g:/_github/Laya/lesson8/libs/laya/src/
+
+1,0.00,g:/_github/Laya/lesson8/src,0,Collect
+1,0.00,g:/_github/Laya/lesson8/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.64,,0,Disable Flash3D g:/_github/Laya/lesson8/src/Main.as
+12,89.64,g:/_github/Laya/lesson8/bin/h5/Main.max.js,1042579,
+11,89.64,g:/_github/Laya/lesson8/bin/h5/Main.max.html,791,
+******************************************************************************
+14,89.64,,0,
