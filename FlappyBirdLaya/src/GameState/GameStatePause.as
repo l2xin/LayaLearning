@@ -1,7 +1,7 @@
 package GameState
 {
-	import avmplus.implementsXml;
 	import GameState.IGameStateBase;
+	import view.GameUI.GameStart;
 
 	/**
 	 * ...
@@ -9,23 +9,29 @@ package GameState
 	 */
 	public class GameStatePause implements IGameStateBase
 	{
-		public function GameStatePause(){
+		public function GameStatePause()
+		{
 			
 		}
 
-		public function OnStart()
+		public function OnStart():void
 		{
+			//实例UI界面
+			// var testView:TestView = new TestView();
+			// Laya.stage.addChild(testView);
 
+			var gameStartView:GameStart = new GameStart();
+			Laya.stage.addChild(gameStartView);
 		}
 
-		public function OnExit()
+		public function OnExit():void
 		{
-
+			// GameStateController.instance.ChangeState(TGameState.PLAYING);
 		}
 
-		public function OnLoop()
+		public function OnLoop():void
 		{
-
+			
 		}
 	}
 

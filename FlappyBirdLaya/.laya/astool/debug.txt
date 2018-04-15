@@ -12,8 +12,8 @@ Project configuration:g:\_github\Laya\FlappyBirdLaya/.actionScriptProperties.
 1,0.00,g:/_github/Laya/FlappyBirdLaya/src,0,Collect
 1,0.00,g:/_github/Laya/FlappyBirdLaya/libs/laya/src,0,Collect
 1,2.00,,0,read class message
-1,89.78,,0,Disable Flash3D g:/_github/Laya/FlappyBirdLaya/src/LayaUISample.as
-12,89.78,g:/_github/Laya/FlappyBirdLaya/bin/h5/LayaUISample.max.js,886393,
-11,89.78,g:/_github/Laya/FlappyBirdLaya/bin/h5/LayaUISample.max.html,895,
+1,89.79,,0,Disable Flash3D g:/_github/Laya/FlappyBirdLaya/src/LayaUISample.as
+12,89.79,g:/_github/Laya/FlappyBirdLaya/bin/h5/LayaUISample.max.js,940951,
+11,89.79,g:/_github/Laya/FlappyBirdLaya/bin/h5/LayaUISample.max.html,894,
 ******************************************************************************
-14,89.78,,0,
+14,89.79,,0,

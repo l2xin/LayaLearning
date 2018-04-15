@@ -8,21 +8,22 @@ package GameState
 	 */
 	public class GameStatePlaying implements IGameStateBase
 	{
-		public function GameStatePlaying(){
+		public function GameStatePlaying()
+		{
 			
 		}
 
-		public function OnStart()
+		public function OnStart():void
 		{
 
 		}
 
-		public function OnExit()
+		public function OnExit():void
 		{
 
 		}
 
-		public function OnLoop()
+		public function OnLoop():void
 		{
 
 		}

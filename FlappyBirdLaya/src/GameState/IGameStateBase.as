@@ -6,9 +6,9 @@ package GameState
 	 */
 	public interface IGameStateBase
 	{
-		function OnStart();
-		function OnExit();
-		function OnLoop();
+		function OnStart():void;
+		function OnExit():void;
+		function OnLoop():void;
 	}
 
 }
