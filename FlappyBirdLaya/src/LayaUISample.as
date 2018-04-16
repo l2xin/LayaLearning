@@ -8,6 +8,9 @@
 	import avmplus.implementsXml;
 	import GameState.GameStateController;
 	import GameState.TGameState;
+	import Events.TEventDispatch;
+	import laya.debug.DebugPanel;
+	import laya.debug.DebugTool;
 	
 	public class LayaUISample 
 	{
@@ -15,6 +18,7 @@
 		{
 			GameStateController.instance.ChangeState(TGameState.INIT);
 		}
+
 		
 		// private function beginLoad():void 
 		// {

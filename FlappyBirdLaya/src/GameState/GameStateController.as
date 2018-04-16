@@ -83,6 +83,8 @@ package GameState
 
 			var gameState:IGameStateBase = this.GetGameState(gameStateId);
 
+			console.log("ChangeState:" + gameStateId);
+
 			m_curGameState = gameState;
 
 			if(m_curGameState != null)
