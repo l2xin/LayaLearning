@@ -1,19 +1,19 @@
-1,0.00,,0,Project command:g:\_github\Laya\FlappyBirdLaya/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
-Project configuration:g:\_github\Laya\FlappyBirdLaya/.actionScriptProperties.
-1,0.00,,0,output path:g:/_github/Laya/FlappyBirdLaya/bin/h5/
-1,0.00,,0,Main Class:g:/_github/Laya/FlappyBirdLaya/src/LayaUISample.as
+1,0.00,,0,Project command:g:\_git_lyx\LayaLearning\FlappyBirdLaya/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:g:\_git_lyx\LayaLearning\FlappyBirdLaya/.actionScriptProperties.
+1,0.00,,0,output path:g:/_git_lyx/LayaLearning/FlappyBirdLaya/bin/h5/
+1,0.00,,0,Main Class:g:/_git_lyx/LayaLearning/FlappyBirdLaya/src/LayaUISample.as
 1,0.00,,0,output file:LayaUISample
-1,0.00,,0,compilerSourcePath g:/_github/Laya/FlappyBirdLaya/libs/laya/src/
+1,0.00,,0,compilerSourcePath g:/_git_lyx/LayaLearning/FlappyBirdLaya/libs/laya/src/
 
-1,0.00,,0,Compile Path:g:/_github/Laya/FlappyBirdLaya/src/
+1,0.00,,0,Compile Path:g:/_git_lyx/LayaLearning/FlappyBirdLaya/src/
 
-1,0.00,,0,Compile Path:g:/_github/Laya/FlappyBirdLaya/libs/laya/src/
+1,0.00,,0,Compile Path:g:/_git_lyx/LayaLearning/FlappyBirdLaya/libs/laya/src/
 
-1,0.00,g:/_github/Laya/FlappyBirdLaya/src,0,Collect
-1,0.00,g:/_github/Laya/FlappyBirdLaya/libs/laya/src,0,Collect
+1,0.00,g:/_git_lyx/LayaLearning/FlappyBirdLaya/src,0,Collect
+1,0.00,g:/_git_lyx/LayaLearning/FlappyBirdLaya/libs/laya/src,0,Collect
 1,2.00,,0,read class message
-1,89.79,,0,Disable Flash3D g:/_github/Laya/FlappyBirdLaya/src/LayaUISample.as
-12,89.79,g:/_github/Laya/FlappyBirdLaya/bin/h5/LayaUISample.max.js,940951,
-11,89.79,g:/_github/Laya/FlappyBirdLaya/bin/h5/LayaUISample.max.html,894,
+1,89.73,,0,Disable Flash3D g:/_git_lyx/LayaLearning/FlappyBirdLaya/src/LayaUISample.as
+12,89.73,g:/_git_lyx/LayaLearning/FlappyBirdLaya/bin/h5/LayaUISample.max.js,1602148,
+11,89.73,g:/_git_lyx/LayaLearning/FlappyBirdLaya/bin/h5/LayaUISample.max.html,894,
 ******************************************************************************
-14,89.79,,0,
+14,89.73,,0,
